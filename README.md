@@ -1,5 +1,5 @@
 Hello world!
-This is my GIS projects portfolio consisting of 8 of the latest spatial data studies, shown as map exports.
+This is my GIS projects portfolio consisting of 8 of the latest spatial data studies I've done.
 
 1. The functional and spatial structure of the city of Nowy Targ, including location, population and building density, land cover types, conflict areas (buildings in areas at risk of flooding or landslides), and forms of nature conservation. 
 
@@ -12,3 +12,9 @@ This is my GIS projects portfolio consisting of 8 of the latest spatial data stu
 5. Analysis of road network density in the studied districts of Mikołajki and Ruciane-Nida
 
 6. Analysis of the availability and frequency of public transport in Mikołajki and Ruciane-Nida
+   
+7. Building height of a fragment of Gdańsk Old Town calculated using average building-isolated LiDAR points
+
+8. Percentage of locals unwilling to use public transit in rural counties of Mikołajki and Ruciane-Nida 
+
+As I'm currently working on a Kyiv Public Transit Assessment project, where I built a Static GTFS for the entirety of Kyiv city with limited and fragmented data availabilty, I'm updating this folder to include the 9-step Python workflow using pandas, ArcPy and TkinterMapView GUI I used create realistic routing system for private public transit simulation based on cleaned and processed OSM topology Network Dataset.
